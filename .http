@@ -1,0 +1,8 @@
+POST http://localhost:3000/library
+Content-Type: application/json
+
+{
+"Bookname":"DS",
+"Nameoftheissuer":"Praneeth",
+"Duedate":"12/12/2021"
+}
